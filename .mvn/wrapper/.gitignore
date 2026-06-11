@@ -1,0 +1,6 @@
+target/
+*.class
+*.jar
+.env
+frontend/node_modules/
+frontend/build/
